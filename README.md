@@ -15,13 +15,13 @@ Android-разработчик (Kotlin), перешёл из видеопрои�
 
 ### 📌 Проекты
 
-| Название | Описание | Технологии | GitHub |
-|---------|----------|------------|--------|
-| Playlist Maker | Музыкальное Android-приложение с плейлистами и плеером | MVVM, Room, RecyclerView, Kotlin | [перейти](https://github.com/SleeplessShu/PlaylistMaker) |
-| MatchTheWords | Игра на запоминание новых слов иностранного языка | MVP, SQL, SharedPrefs, Kotlin  | [перейти](https://github.com/SleeplessShu/MatchTheWords) |
-| Vzyali | Android-приложение для поиска вакансий | MVVM, Retrofit, RecyclerView | [перейти](https://github.com/SleeplessShu/Vzyali) |
-| ARDraw | AR Android-приложение для перерисовывания с фотографии на бумагу | MVVM, Retrofit, RecyclerView | [перейти](https://github.com/SleeplessShu/ARDraw) |
-| PsyBot | Чат в телеграм с ботом психологической поддержки с Chat-GPT под капотом. | MVVM, Retrofit, RecyclerView | [перейти](https://github.com/SleeplessShu/PsyBot) |
+| Иконка | Название | Описание | Технологии | GitHub |
+|---------|---------|----------|------------|--------|
+| <img src="https://github.com/user-attachments/assets/9c3a5059-988d-41aa-b9f2-ba2f34ec7f75" style="display:block; margin:auto; height:48px;"/> | Playlist Maker | Музыкальное Android-приложение с плейлистами и плеером | Kotlin, MVVM, Clean Architecture, Koin, Coroutines, Flow, Room, SharedPreferences, Retrofit, RecyclerView, Fragment, BottomSheetDialog, Material Components, MediaPlayer API | [перейти](https://github.com/SleeplessShu/PlaylistMaker) |
+|  | MatchTheWords | Игра на запоминание новых слов иностранного языка | MVP, SQL, SharedPrefs, Kotlin  | [перейти](https://github.com/SleeplessShu/MatchTheWords) |
+|  | Vzyali | Android-приложение для поиска вакансий | MVVM, Retrofit, RecyclerView | [перейти](https://github.com/SleeplessShu/Vzyali) |
+|  | ARDraw | AR Android-приложение для перерисовывания с фотографии на бумагу | MVVM, Retrofit, RecyclerView | [перейти](https://github.com/SleeplessShu/ARDraw) |
+|  | PsyBot | Чат в телеграм с ботом психологической поддержки с Chat-GPT под капотом. | MVVM, Retrofit, RecyclerView | [перейти](https://github.com/SleeplessShu/PsyBot) |
 
 ---
 
