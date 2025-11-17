@@ -10,7 +10,7 @@ I love a clear architecture, clean code, and seeing the result of my work in the
 - **Android:** Jetpack, ViewModel, LiveData, Room, Retrofit, Coroutines, Hilt, Koin
 - **Tools:** Git, Gradle, Firebase, CI/CD
 - **Other:** Arduino, Blender, ZBrush, Unreal Engine, Adobe Premiere, DaVinci Resolve
-- 
+  
 ---
 
 ### 📌 Projects on android
